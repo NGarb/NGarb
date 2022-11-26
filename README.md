@@ -1,4 +1,26 @@
-### Hi there 👋
+### Good day • добрый день • Guten tag 
+
+
+Welcome to my page ✨ My elevator pitch intro:
+
+I discovered Data Science along with the rest of the world as it was first coming into existence and being defined in 2015. I am initially mostly self-taught, and am super passionate about _practical_ application of AI into products as well as well-positioned story-telling with data. 
+
+- 👨‍💻 Some of my projects are available at [https://ngarb.github.io/](https://ngarb.github.io/)
+
+I would love to collaborate on NLP projects or more general open Machine Learning projects 😄
+Please reach me on
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nicolle-garber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolle-garber" height="30" width="40" /></a>
+<a href="https://discord.gg/6893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6893" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
 
 <!--
 **NGarb/NGarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
