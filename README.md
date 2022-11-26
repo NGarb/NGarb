@@ -7,8 +7,8 @@ I discovered Data Science along with the rest of the world as it was first comin
 
 - 👨‍💻 Some of my projects are available at [https://ngarb.github.io/](https://ngarb.github.io/)
 
-I would love to collaborate on NLP projects or more general open Machine Learning projects 😄
-Please reach me on
+- I would love to collaborate on NLP projects or more general open Machine Learning projects 😄
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
