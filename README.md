@@ -1,13 +1,13 @@
 ### Good day • добрый день • Guten tag 
 
 
-Welcome to my page ✨ My elevator pitch intro:
+Welcome to my page ✨ 
 
-I discovered Data Science along with the rest of the world as it was first coming into existence and being defined in 2015. I am initially mostly self-taught, and am super passionate about _practical_ application of AI into products as well as well-positioned story-telling with data. 
+I discovered Data Science along with the rest of the world as it was first coming into existence and being defined in 2015. I am initially mostly self-taught, and am super passionate about the _practical_ application of AI into products as well as well-positioned story-telling with data. 
 
 - 👨‍💻 Some of my projects are available at [https://ngarb.github.io/](https://ngarb.github.io/)
 
-- I would love to collaborate on NLP projects or more general open Machine Learning projects 😄
+- :dancers: I would love to collaborate on NLP projects or more general open Machine Learning projects 
 
 
 <h3 align="left">Connect with me:</h3>
